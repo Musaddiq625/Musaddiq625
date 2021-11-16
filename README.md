@@ -17,8 +17,8 @@
 
 ### Connect with me
 
-[<img align="left" alt="Musaddiq625 | LinkedIn" width=22px src="https://cdn-icons-png.flaticon.com/512/174/174857.png">][linkedin]
-[<img align="left" alt="Musaddiq625 | Facebook" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg">][facebook]
+[<img align="left" alt="Musaddiq625 | LinkedIn" width=22px src="https://www.nicepng.com/png/detail/1006-10065363_facebook-twitter-google-plus-linkedin-whatsapp-linked-in.png">][linkedin]
+[<img align="left" alt="Musaddiq625 | Facebook" width=22px src="https://puntlandpost.net/wp-content/uploads/2020/12/4.png">][facebook]
 
 [linkedin]: https://www.linkedin.com/in/musaddiq625
 [facebook]: https://www.facebook.com/musaddiq625
