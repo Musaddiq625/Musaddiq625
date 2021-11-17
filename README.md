@@ -1,7 +1,7 @@
 ### Hi 👋, I'M Musaddiq Ahmed Khan
 
-- ☕ I’m learning to work on bloc library
-- 🧑‍💻 I’m looking to collaborate on open source projects
+- ☕ Trying to learn bloc
+- 🧑‍💻 Looking to collaborate on open source projects
 - 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev).
 - 😄 Pronouns: he/him/his
 - Trying to learn and discover new things
