@@ -22,6 +22,8 @@
 ### Github Stats
 ![Musaddiq's github Stats](https://github-readme-stats.vercel.app/api?username=Musaddiq625&theme=material-palenight)
 
+[![Musaddiq's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Musaddiq625&theme=radical&v=2)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Connect with me
 
 [<img align="left" alt="Musaddiq625 | LinkedIn" width=22px src="https://www.nicepng.com/png/detail/1006-10065363_facebook-twitter-google-plus-linkedin-whatsapp-linked-in.png">][linkedin]
