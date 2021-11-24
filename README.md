@@ -19,7 +19,7 @@
 <br>
 
 ### Leetcode Stats
-[![Leetcode Stats](https://leetcode.card.workers.dev/?username=Musaddiq625)](https://leetcode.com/Musaddiq625&style=dark)
+[![Leetcode Stats](https://leetcode.card.workers.dev/?username=Musaddiq625&style=dark)](https://leetcode.com/Musaddiq625)
 
 ### Github Streaks
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Musaddiq625&style=dark)
