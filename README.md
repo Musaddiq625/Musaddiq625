@@ -18,12 +18,11 @@
 <br>
 <br>
 
-### Github Stats
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Musaddiq625)
-
 ### Leetcode Stats
 [![Leetcode Stats](https://leetcode.card.workers.dev/?username=Musaddiq625)](https://leetcode.com/Musaddiq625)
 
+### Github Streaks
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Musaddiq625)
 
 ### Github Stats
 ![Musaddiq's github Stats](https://github-readme-stats.vercel.app/api?username=Musaddiq625&theme=material-palenight)
