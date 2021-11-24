@@ -13,6 +13,9 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Musaddiq625)
 
+[![Leetcode Stats](https://leetcode.card.workers.dev/?username=Musaddiq625)](https://leetcode.com/Musaddiq625)
+
+
 ### Tech Stack
 
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
