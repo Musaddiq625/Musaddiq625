@@ -19,10 +19,10 @@
 <br>
 
 ### Leetcode Stats
-[![Leetcode Stats](https://leetcode.card.workers.dev/?username=Musaddiq625)](https://leetcode.com/Musaddiq625)
+[![Leetcode Stats](https://leetcode.card.workers.dev/?username=Musaddiq625)](https://leetcode.com/Musaddiq625&style=dark)
 
 ### Github Streaks
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Musaddiq625)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Musaddiq625&style=dark)
 
 ### Github Stats
 ![Musaddiq's github Stats](https://github-readme-stats.vercel.app/api?username=Musaddiq625&theme=material-palenight)
