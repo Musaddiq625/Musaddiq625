@@ -18,8 +18,10 @@
 <br>
 <br>
 
+### Github Stats
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Musaddiq625)
 
+### Leetcode Stats
 [![Leetcode Stats](https://leetcode.card.workers.dev/?username=Musaddiq625)](https://leetcode.com/Musaddiq625)
 
 
