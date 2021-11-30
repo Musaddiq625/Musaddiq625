@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/b4a6a923-b85a-49fd-8d41-2ffdbd75ad17.svg)](https://wakatime.com/@b4a6a923-b85a-49fd-8d41-2ffdbd75ad17)
+
 ### Hi 👋, I'M Musaddiq Ahmed Khan
 
 - ☕ Trying to learn bloc
