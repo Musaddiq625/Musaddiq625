@@ -3,7 +3,7 @@
 ### Hi 👋, I'M Musaddiq Ahmed Khan
 
 - ☕ Trying to learn bloc
-- 🧑‍💻 Looking to collaborate on open source projects
+- 🧑‍💻 Trying to learn something new and creative
 - 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev).
 - 😄 Pronouns: he/him/his
 - Trying to learn and discover new things
