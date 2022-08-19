@@ -2,6 +2,7 @@
 
 ### Hi 👋, I'M Musaddiq Ahmed Khan
 
+- 👪 Team Lead
 - ☕ Trying to learn bloc
 - 🧑‍💻 Trying to learn something new and creative
 - 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev).
@@ -11,9 +12,21 @@
 
 ### Tech Stack
 
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img width=30px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img width=30px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img width=30px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+
+### Connect with me
+
+[<img align="left" alt="Musaddiq625 | LinkedIn" width=30px src="https://cdn-icons-png.flaticon.com/512/174/174857.png">][linkedin]
+[<img align="left" alt="Musaddiq625 | Facebook" width=30px src="https://cdn-icons-png.flaticon.com/512/174/174855.png">][instagram]
+[<img align="left" alt="Musaddiq625 | Facebook" width=30px src="https://puntlandpost.net/wp-content/uploads/2020/12/4.png">][facebook]
+
+[linkedin]: https://www.linkedin.com/in/musaddiq625
+[instagram]: https://www.instagram.com/musaddiq.625
+[facebook]: https://www.facebook.com/musaddiq625
+
+<br><br>
 
 ## Profile Views
 <img align="left" src = "https://profile-counter.glitch.me/Musaddiq625/count.svg">
@@ -31,11 +44,3 @@
 
 ### WakaTime Weekly Stats
 [![Musaddiq's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Musaddiq625&theme=radical&v=2)](https://github.com/anuraghazra/github-readme-stats)
-
-### Connect with me
-
-[<img align="left" alt="Musaddiq625 | LinkedIn" width=22px src="https://www.nicepng.com/png/detail/1006-10065363_facebook-twitter-google-plus-linkedin-whatsapp-linked-in.png">][linkedin]
-[<img align="left" alt="Musaddiq625 | Facebook" width=22px src="https://puntlandpost.net/wp-content/uploads/2020/12/4.png">][facebook]
-
-[linkedin]: https://www.linkedin.com/in/musaddiq625
-[facebook]: https://www.facebook.com/musaddiq625
