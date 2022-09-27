@@ -9,7 +9,6 @@
 - 😄 Pronouns: he/him/his
 - Trying to learn and discover new things
 
-
 ### Tech Stack
 
 <code><img width=30px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
@@ -25,9 +24,9 @@
 [linkedin]: https://www.linkedin.com/in/musaddiq625
 [instagram]: https://www.instagram.com/musaddiq.625
 [facebook]: https://www.facebook.com/musaddiq625
-
 <br><br>
-
+[![@musaddiq625's Holopin board](https://holopin.io/api/user/board?user=musaddiq625)](https://holopin.io/@musaddiq625)
+<br>
 ## Profile Views
 <img align="left" src = "https://profile-counter.glitch.me/Musaddiq625/count.svg">
 <br>
