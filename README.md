@@ -4,7 +4,7 @@
 
 - 👪 Team Lead
 - ☕ Trying to learn bloc
-- 🧑‍💻 Trying to learn something new and creative
+- 🧑 Trying to learn something new and creative
 - 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev).
 - 😄 Pronouns: he/him/his
 - Trying to learn and discover new things
