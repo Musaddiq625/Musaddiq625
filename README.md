@@ -42,5 +42,3 @@
 ### Github Stats
 ![Musaddiq's github Stats](https://github-readme-stats.vercel.app/api?username=Musaddiq625&theme=material-palenight)
 
-### WakaTime Weekly Stats
-[![Musaddiq's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Musaddiq625&theme=radical&v=2)](https://github.com/anuraghazra/github-readme-stats)
