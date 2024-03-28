@@ -8,7 +8,8 @@
 - 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev).
 - 😄 Pronouns: he/him/his
 - Trying to learn and discover new things
-- Active on LinkedIn (sometimes)
+- Active on LinkedIn
+- ❤️ Love to implement custom code solutions
 
 ### Tech Stack
 
