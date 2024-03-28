@@ -7,8 +7,8 @@
 - 🧑 Trying to learn something new and creative
 - 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev).
 - 😄 Pronouns: he/him/his
-- Trying to learn and discover new things
-- Active on LinkedIn
+- 🧠 Trying to learn and discover new things
+- ⚡ Active on LinkedIn
 - ❤️ Love to implement custom code solutions
 
 ### Tech Stack
