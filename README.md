@@ -2,14 +2,15 @@
 
 ### Hi 👋, I'm Musaddiq Ahmed Khan
 
-- 👪 Team Lead
-- ☕ Trying to learn bloc
-- 🧑 Trying to learn something new and creative
-- 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev).
-- 😄 Pronouns: he/him/his
-- 🧠 Trying to learn and discover new things
+- 👪 Lead Senior Flutter Developer
+- 💬 Available for better opportunity
 - ⚡ Active on LinkedIn
-- ❤️ Love to implement custom code solutions
+- ❤️ Love to implement custom solutions
+- 🌎 Open Source Contributer
+- 🍀 Mentor
+
+[![Portfolio](https://img.shields.io/badge/View-My%20Portfolio-blue?style=for-the-badge)](https://musaddiq625.carrd.co)
+
 
 ### Tech Stack
 
