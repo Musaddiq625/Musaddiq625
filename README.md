@@ -25,7 +25,6 @@ More games under development 🚧
 
 [linkedin]: https://www.linkedin.com/in/musaddiq625
 
-<br>
 ![Musaddiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=musaddiq625\&rank_icon=github&theme=material-palenight)
 
 
