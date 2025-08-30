@@ -17,7 +17,7 @@ More games under development 🚧
  
 ## [👉🏻 My Portfilio](https://musaddiq625.carrd.co)
 
-<a href="https://www.patreon.com/Musaddiq625" target="_blank" style="background-color:#ff424d; color:white; padding:8px 12px; border-radius:5px; text-decoration:none; display:inline-flex; align-items:center;">
+<a href="https://www.patreon.com/14675946/join" target="_blank" style="background-color:#ff424d; color:white; padding:8px 12px; border-radius:5px; text-decoration:none; display:inline-flex; align-items:center;">
   <img src="https://pbs.twimg.com/media/DC4gjLRUMAAyQ92.jpg" alt="Patreon Logo" style="height:50px;">
 </a>
 
